@@ -13,7 +13,7 @@
 ### 🍃 关于我
 
 - 🏗️ 正在建造 **[白叶](https://github.com/LinyeFL)** —— 一个以建筑和社交为核心的 Minecraft 社区服务器
-- 📦 维护 **[TLeaf-Link](https://github.com/LinyeFL/TLeaf-Link)** —— QQ ↔ Minecraft 跨服聊天互通插件（Velocity + Paper）
+- 📦 正在制作 TLeaf 系列项目
 - 🎮 16 年 Minecraft 游戏龄，至今热情不减
 - 🌱 正在自学：Java 插件开发、服务器运维，以及中间的一切
 
