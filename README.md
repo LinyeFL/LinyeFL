@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://github.com/LinyeFL/TLeaf-Link">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Link&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Link&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -47,12 +47,8 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LinyeFL&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=6" alt="GitHub 奖杯" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinyeFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub 统计" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinyeFL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="常用语言" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LinyeFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub 统计" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LinyeFL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="常用语言" height="165" />
 </p>
 
 ---
@@ -60,7 +56,7 @@
 ### 🐍 贡献贪吃蛇
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LinyeFL/LinyeFL/output/snake.svg" alt="贪吃蛇动画" />
+  <img src="https://raw.githubusercontent.com/LinyeFL/LinyeFL/output/snake-dark.svg" alt="贪吃蛇动画" />
 </p>
 
 ---
