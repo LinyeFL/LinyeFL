@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=你好，我是风林+👋;Minecraft+服主+⛏️;Java+%26+Velocity+开发+💻;正在建造白叶+🍃" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E9%A3%8E%E6%9E%97+%F0%9F%91%8B;Minecraft+%E6%9C%8D%E4%B8%BB+%E2%9B%8F%EF%B8%8F;Java+%26+Velocity+%E5%BC%80%E5%8F%91+%F0%9F%92%BB;%E6%AD%A3%E5%9C%A8%E5%BB%BA%E9%80%A0%E7%99%BD%E5%8F%B6+%F0%9F%8D%83" alt="Typing SVG" />
   </a>
 </h1>
 
