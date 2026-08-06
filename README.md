@@ -38,10 +38,10 @@
 
 <p align="left">
   <a href="https://github.com/LinyeFL/TLeaf-Link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Link&..." alt="TLeaf-Link" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Link&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/LinyeFL/TLeaf-Floating">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Floating&..." alt="TLeaf-Floating" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=LinyeFL&repo=TLeaf-Floating&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
